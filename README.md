@@ -2,6 +2,10 @@
 
 A complete reference implementation for the first project in the web-development project ladder.
 
+## 🚀 Live Demo
+
+🔗 **[View Live Website](https://codingwithazim.github.io/02...06.10.26...Personal-Identity-Card/)**
+
 ## What this project teaches
 
 - Semantic HTML structure
@@ -18,23 +22,27 @@ A complete reference implementation for the first project in the web-development
 ## How to study this project
 
 ### Pass 1 — Read
-Open `index.html` and `style.css` and understand what each section is doing.
+
+Open `index.html` and `style.css` and understand what each section is doing.  
 Do not try to memorize the code.
 
 ### Pass 2 — Rebuild
-Close the files. Create a new folder and rebuild the same project yourself.
+
+Close the files. Create a new folder and rebuild the same project yourself.  
 Use the reference only when you get stuck.
 
 ### Pass 3 — Modify
-Change the name, role, colors, copy, skills, spacing, card shape, and mobile behavior.
+
+Change the name, role, colors, copy, skills, spacing, card shape, and mobile behavior.  
 Try to make your own version without copying the CSS line-by-line.
 
 ### Pass 4 — From memory
+
 Create the identity card again from an empty folder without looking at the reference.
 
 ## Important
 
-This is the reference implementation, not the final standard you must copy forever.
+This is the reference implementation, not the final standard you must copy forever.  
 The next projects will intentionally change the layout, visual language, and technical challenge so that you learn new concepts rather than repeating the same design.
 
 ## Run
